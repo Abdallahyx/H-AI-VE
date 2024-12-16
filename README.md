@@ -29,4 +29,28 @@ The AI system implements a sophisticated decision-making process through an enha
   •	Clear turn indication
   •	Real-time move validation
   •	Comprehensive game state display
+## Difficulty Levels:
+### Easy (Level 1)
+  •	Search depth: 2 ply
+  •	Basic evaluation implementation
+  •	Simplified piece values
+  •	Limited heuristic application
+### Medium (Level 2)
+  •	Search depth: 4 ply
+  •	Enhanced evaluation system
+  •	Position scoring implementation
+  •	Basic queen protection strategies
+### Hard (Level 3)
+  •	Search depth: 6 ply
+  •	Full heuristic utilization
+  •	Tactical combination analysis
+  •	Advanced strategic planning
+### Impossible (Level 4)
+  •	Search depth: 8 ply
+  •	Maximum evaluation complexity
+  •	Advanced strategy implementation
+  •	Sophisticated endgame techniques
+
+
+
 
