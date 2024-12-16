@@ -17,3 +17,9 @@ The AI system implements a sophisticated decision-making process through an enha
 ![mmmm](https://github.com/user-attachments/assets/15a68ff4-75fc-49de-8ed2-22a0b9ba0675)
 ### State Diagram
 ![stateDiagram](https://github.com/user-attachments/assets/081b8e8e-f97d-4287-bc4c-ee2e94517523)
+## Supported features:
+### Game Modes:
+•	Local multiplayer functionality
+•	Single player vs AI capability
+•	AI vs AI simulation mode
+•	Interactive tutorial system
