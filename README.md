@@ -23,7 +23,7 @@ The AI system implements a sophisticated decision-making process through an enha
 •	Single player vs AI capability
 •	AI vs AI simulation mode
 •	Interactive tutorial system
-###UI Features:
+### UI Features:
   •	Interactive board system
   •	Dynamic move highlighting
   •	Clear turn indication
